@@ -2,7 +2,7 @@
 
 
 		"- ⚡ Quick bio:":                    "I'm Marta an audiovisual creator",
-		"- 🌱 I’m currently learning":        "Javascript, Java, React, Visual Studio Code",
+		"- 🌱 I’m currently learning":        "Javascript, Java, Typescript, React, Visual Studio Code",
 		"- 📫 How to reach me:":              ""https://martabarnolas.com/"     or     https://www.linkedin.com/barnolasaudiovisual"
   						
 
